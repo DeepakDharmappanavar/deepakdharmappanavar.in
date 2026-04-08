@@ -315,7 +315,7 @@ a {
     box-shadow: none;
     text-transform: uppercase;
     outline: none !important;
-    background-color: #6C00FF;
+    background-color: #007bff;
     box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.2);
     border-radius: 2px;
     min-width: 140px;
@@ -427,7 +427,7 @@ a {
 }
 
 .badge-dark {
-    background: rgb(44, 34, 136) !important;
+    background: #007bff !important;;
 }
 
 
@@ -611,7 +611,7 @@ a {
 
 .navbar-nav .nav-link.active {
     opacity: 1;
-    color: #6C00FF !important;
+    color: #007bff!important;
 }
 
 .nav-wrapper {
@@ -784,7 +784,7 @@ a {
 .about-avatar img {
     height: 160px;
     width: 160px;
-    border: 2px outset #2b9131;
+    border: 2px outset #007bff;
     padding: 10px;
 }
 
@@ -919,7 +919,7 @@ a {
 }
 
 .about-desc-social li a:hover {
-    color: #2b9131;
+    color: #007bff;
 }
 
 /* ---------------------------------------------- 
@@ -1022,7 +1022,7 @@ a {
 }
 
 .swiper-pagination-bullet {
-    background-color: #6C00FF;
+    background-color: #007bff;
 }
 
 /* ---------------------------------------------- 
@@ -1161,7 +1161,7 @@ a {
     -o-transform: rotate3d(0, 1, 0, 180deg);
     transform: rotate3d(0, 1, 0, 180deg);
     z-index: 1;
-    background: #2b9131;
+    background: #007bff;
     -webkit-transform-style: inherit;
     -moz-transform-style: inherit;
     -ms-transform-style: inherit;
@@ -1274,7 +1274,7 @@ a {
 }
 
 .progress-bar {
-    background: #2C2288 !important;
+    background: #007bff !important;
     /* skills */
     opacity: 0.8;
 }
@@ -1451,7 +1451,7 @@ a {
 }
 
 .swiper-pagination-progressbar-fill {
-    background-color: #6C00FF !important;
+    background-color: #007bff !important;
 }
 
 .blog-cat {
@@ -1493,10 +1493,10 @@ h4.media-heading {
 .blog-detail-content blockquote {
     font-size: 14px;
     background: #191919;
-    border-color: #2b9131;
+    border-color: #007bff;
     padding: 5px 10px;
     border-radius: 4px;
-    border-left: 5px solid #2b9131;
+    border-left: 5px solid #007bff;
 }
 
 .blog-detail-content img {
@@ -1535,7 +1535,7 @@ h4.media-heading {
     padding: 3px 15px;
     color: #fff;
     text-transform: capitalize;
-    background: #2b9131;
+    background: #007bff;
     border-radius: 2px;
     margin: 15px 0;
 }
@@ -1567,7 +1567,7 @@ h4.media-heading {
 }
 
 .tags:hover {
-    background-color: #2b9131;
+    background-color: #007bff;
     color: #ffffff;
 }
 
@@ -1598,7 +1598,7 @@ h4.media-heading {
 }
 
 .blog-nav:hover {
-    background: #2b9131;
+    background: #007bff;
     color: #fff;
 }
 
