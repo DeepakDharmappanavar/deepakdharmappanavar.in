@@ -1194,27 +1194,27 @@ a {
 }
 
 .services-list-1 {
-    background-image: url("../images/devops.jpg");
+    background-image: url("../images/Monitoring.png");
 }
 
 .services-list-2 {
-    background-image: url("../images/ARCH.jpg");
+    background-image: url("../images/Terraform.png");
 }
 
 .services-list-3 {
-    background-image: url("../images/hosting.jpg");
+    background-image: url("../images/Kubernetes.png");
 }
 
 .services-list-4 {
-    background-image: url("../images/languages.jpg");
+    background-image: url("../images/CICD.png");
 }
 
 .services-list-5 {
-    background-image: url("../images/editing.jpg");
+    background-image: url("../images/AWS.png");
 }
 
 .services-list-6 {
-    background-image: url("../images/crypta.jpg");
+    background-image: url("../images/Security.png");
 }
 
 .services-list-7 {
@@ -1222,11 +1222,11 @@ a {
 }
 
 .services-list-8 {
-    background-image: url("../images/cp.jpg");
+    background-image: url("../images/Docker.png");
 }
 
 .services-list-9 {
-    background-image: url("../images/linkedin.png");
+    background-image: url("../images/Github.png");
 }
 
 
